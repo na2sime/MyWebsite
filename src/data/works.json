@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Kraken",
+    "id": 1,
+    "stack": ["Java", "Redis", "Docker"],
+    "description": "",
+    "image": "https://i.imgur.com/2QZQY5E.png",
+    "link": "",
+    "github": "",
+    "date": "2019-01-01"
+  },
+  {
+    "name": "Kasa",
+    "id": 2,
+    "stack": ["React"],
+    "description": "",
+    "image": "https://i.imgur.com/2QZQY5E.png",
+    "link": "",
+    "github": "",
+    "date": "2019-01-01"
+  },
+  {
+    "name": "Mon Vieux Grimoire",
+    "id": 2,
+    "stack": ["React", "Node", "MongoDB", "Express"],
+    "description": "",
+    "image": "https://i.imgur.com/2QZQY5E.png",
+    "link": "",
+    "github": "",
+    "date": "2019-01-01"
+  }
+]

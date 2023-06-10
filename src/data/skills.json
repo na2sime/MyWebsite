@@ -1,0 +1,175 @@
+[
+  {
+    "name": "HTML5",
+    "stars": 5,
+    "description-en": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.",
+    "description-fr": "HTML5 est un langage de balisage utilisé pour structurer et présenter le contenu sur le World Wide Web. C'est la cinquième et actuelle version majeure de la norme HTML.",
+    "image": "html5.png",
+    "tags": [
+      "html",
+      "html5",
+      "front-end",
+      "web",
+      "language"
+    ]
+  },
+  {
+    "name": "CSS3",
+    "stars": 3.5,
+    "description-en": "CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "CSS3 est la dernière évolution du langage Cascading Style Sheets et vise à étendre CSS2.1.",
+    "image": "css3.png",
+    "tags": [
+      "css",
+      "css3",
+      "front-end",
+      "web",
+      "language"
+    ]
+  },
+  {
+    "name": "Saas",
+    "stars": 3.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "saas",
+      "css",
+      "front-end",
+      "web",
+      "language"
+    ]
+  },
+  {
+    "name": "JavaScript",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "js",
+      "javascript",
+      "front-end",
+      "back-end",
+      "web",
+      "language"
+    ]
+  },
+  {
+    "name": "React.JS",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "js",
+      "javascript",
+      "front-end",
+      "react",
+      "web"
+    ]
+  },
+  {
+    "name": "Express",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "js",
+      "javascript",
+      "back-end",
+      "web"
+    ]
+  },
+  {
+    "name": "MongoDB",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "database",
+      "technology",
+      "back-end",
+      "web"
+    ]
+  },
+  {
+    "name": "SQL",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "database",
+      "technology",
+      "back-end",
+      "web"
+    ]
+  },
+  {
+    "name": "Git",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "version-control",
+      "technology",
+      "back-end",
+      "web"
+    ]
+  },
+  {
+    "name": "Redis",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "database",
+      "message-broker",
+      "technology",
+      "back-end"
+    ]
+  },
+  {
+    "name": "Docker",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "container",
+      "docker",
+      "technology",
+      "back-end"
+    ]
+  },
+  {
+    "name": "Java",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "java",
+      "back-end",
+      "language"
+    ]
+  },
+  {
+    "name": "C",
+    "stars": 4.5,
+    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "description-fr": "",
+    "image": "saas.png",
+    "tags": [
+      "C",
+      "back-end",
+      "language"
+    ]
+  }
+]
