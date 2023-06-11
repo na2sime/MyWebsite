@@ -12,19 +12,11 @@ function Navbar() {
     return (
         <div className={"navbar"}>
             <ul className={"nav_list"}>
-                <li className={currentSection === "home" ? "nav_item_active" : "nav_item"}
+                <li className={currentSection === "home" ? "nav_item_active button" : "nav_item button"}
                     onClick={navigate("home")}>
-                    Accueil
+                    Home
                 </li>
-                <li className={currentSection === "me" ? "nav_item_active" : "nav_item"}
-                    onClick={navigate("me")}>
-                    Me
-                </li>
-                <li className={currentSection === "works" ? "nav_item_active" : "nav_item"}
-                    onClick={navigate("works")}>
-                    Works
-                </li>
-                <li className={currentSection === "contact" ? "nav_item_active" : "nav_item"}
+                <li className={currentSection === "contact" ? "nav_item_active button" : "nav_item button"}
                     onClick={navigate("contact")}>
                     Contact
                 </li>

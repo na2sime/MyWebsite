@@ -1,20 +1,20 @@
 [
   {
     "name": "Kraken",
-    "id": 1,
+    "id": 0,
     "stack": ["Java", "Redis", "Docker"],
-    "description": "",
-    "image": "https://i.imgur.com/2QZQY5E.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://www.kraken.com/_assets/files/1970-01/kraken-social.jpg",
     "link": "",
     "github": "",
     "date": "2019-01-01"
   },
   {
     "name": "Kasa",
-    "id": 2,
+    "id": 1,
     "stack": ["React"],
-    "description": "",
-    "image": "https://i.imgur.com/2QZQY5E.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
     "link": "",
     "github": "",
     "date": "2019-01-01"
@@ -23,8 +23,8 @@
     "name": "Mon Vieux Grimoire",
     "id": 2,
     "stack": ["React", "Node", "MongoDB", "Express"],
-    "description": "",
-    "image": "https://i.imgur.com/2QZQY5E.png",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+    "image": "https://www.referenseo.com/wp-content/uploads/2019/03/image-attractive-960x540.jpg",
     "link": "",
     "github": "",
     "date": "2019-01-01"

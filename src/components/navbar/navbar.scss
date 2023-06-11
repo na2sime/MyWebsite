@@ -1,20 +1,78 @@
 @import "src/assets/sass/main";
 
+$bgColor: blue;
+$textHoverColor: white;
+$debug: false;
+
 .nav_list{
   display: flex;
-  gap: 50px;
-  color: $second-color;
-  font-size: clamp(12px, 2.5vw, 24px);
+  gap: 15px;
   @media screen and (max-width: 700px){
-    gap: 20px;
+    gap: 8px;
   }
-  &_item{
-    &_active{
-      position: relative;
-      color: $second-color;
-      transition: all 0.2s ease-in-out;
-      text-decoration: underline solid $second-color;
+  .button {
+    display: inline-block;
+    position: relative;
+    z-index: 1;
+    overflow: if($debug, unset, hidden);
 
+    text-decoration: none;
+
+    font-family: sans-serif;
+    font-weight: 100;
+    font-size: 15px;
+
+    padding: 0.75em 1em;
+
+    color: $bgColor;
+
+    border: 0.15em solid $bgColor;
+    border-radius: calc(0.75em + 0.5em + 0.15em);
+
+    transition: 4s;
+
+    &:before,
+    &:after {
+      content: '';
+      position: absolute;
+      top: -1.5em;
+
+      z-index: -1;
+
+      width: 200%;
+      aspect-ratio: 1;
+
+      border: if($debug, inherit, none);
+      border-radius: 40%;
+
+      background-color: rgba($bgColor, 0.25);
+
+      transition: 4s;
+    }
+
+    &:hover {
+      cursor: pointer;
+    }
+
+    &:before {
+      left: -80%;
+      transform: translate3d(0, 5em, 0) rotate(-340deg);
+    }
+
+    &:after {
+      right: -80%;
+      transform: translate3d(0, 5em, 0) rotate(390deg);
+    }
+
+    &:hover,
+    &:focus {
+      color: $textHoverColor;
+
+      &:before,
+      &:after {
+        transform: none;
+        background-color: rgba($bgColor, 0.75);
+      }
     }
   }
 }

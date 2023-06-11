@@ -1,0 +1,27 @@
+@import "src/assets/sass/main";
+
+.bannerModule {
+  display: flex;
+  flex-direction: column;
+  margin-top: 5%;
+  margin-bottom: 10%;
+}
+
+.banner {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 20%;
+
+  &_info {
+    align-items: flex-start;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    padding-left: 10%;
+  }
+
+  &_logo {
+    justify-self: flex-end;
+  }
+}
