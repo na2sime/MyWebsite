@@ -20,7 +20,7 @@ function Book() {
     }
 
     return (
-        <div className={"bookModule"}>
+        <section className={"bookModule"} id={"book"}>
             <div className={"book"}>
                 <div className="page" id={"" + currentWork.id}>
                     <div style={{backgroundImage: `url(${currentWork.image})`}} className="page_left"/>
@@ -60,7 +60,7 @@ function Book() {
                     <Arrow direction={"right"} handleClick={nextWork}/>
                 </div>
             </div>
-        </div>
+        </section>
     );
 }
 

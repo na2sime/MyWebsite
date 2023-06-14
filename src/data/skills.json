@@ -2,9 +2,8 @@
   {
     "name": "HTML5",
     "stars": 5,
-    "description-en": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.",
-    "description-fr": "HTML5 est un langage de balisage utilisé pour structurer et présenter le contenu sur le World Wide Web. C'est la cinquième et actuelle version majeure de la norme HTML.",
-    "image": "html5.png",
+    "description": "HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and current major version of the HTML standard.",
+    "image": "html5",
     "tags": [
       "html",
       "html5",
@@ -16,9 +15,8 @@
   {
     "name": "CSS3",
     "stars": 3.5,
-    "description-en": "CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "CSS3 est la dernière évolution du langage Cascading Style Sheets et vise à étendre CSS2.1.",
-    "image": "css3.png",
+    "description": "CSS3 is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "image": "css3",
     "tags": [
       "css",
       "css3",
@@ -30,9 +28,8 @@
   {
     "name": "Saas",
     "stars": 3.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
+    "image": "sass",
     "tags": [
       "saas",
       "css",
@@ -44,9 +41,8 @@
   {
     "name": "JavaScript",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "JavaScript is a high-level, interpreted programming language that conforms to the ECMAScript specification.",
+    "image": "javascript",
     "tags": [
       "js",
       "javascript",
@@ -59,9 +55,8 @@
   {
     "name": "React.JS",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "React is a JavaScript library for building user interfaces. It is maintained by Facebook and a community of individual developers and companies.",
+    "image": "react",
     "tags": [
       "js",
       "javascript",
@@ -73,9 +68,8 @@
   {
     "name": "Express",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Express is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications.",
+    "image": "express",
     "tags": [
       "js",
       "javascript",
@@ -86,9 +80,8 @@
   {
     "name": "MongoDB",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "MongoDB is a cross-platform document-oriented database program. Classified as a NoSQL database program, MongoDB uses JSON-like documents with schema.",
+    "image": "mongodb",
     "tags": [
       "database",
       "technology",
@@ -99,9 +92,8 @@
   {
     "name": "SQL",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "SQL is a domain-specific language used in programming and designed for managing data held in a relational database management system.",
+    "image": "mysql",
     "tags": [
       "database",
       "technology",
@@ -112,9 +104,8 @@
   {
     "name": "Git",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Git is a version control system for tracking changes in computer files and coordinating work on those files among multiple people.",
+    "image": "git",
     "tags": [
       "version-control",
       "technology",
@@ -125,9 +116,8 @@
   {
     "name": "Redis",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Redis is an open-source in-memory data structure project implementing a distributed, in-memory key-value database with optional durability.",
+    "image": "redis",
     "tags": [
       "database",
       "message-broker",
@@ -138,9 +128,8 @@
   {
     "name": "Docker",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Docker is a set of coupled software-as-a-service and platform-as-a-service products that use operating-system-level virtualization to develop and deliver software in packages called containers.",
+    "image": "docker",
     "tags": [
       "container",
       "docker",
@@ -151,9 +140,8 @@
   {
     "name": "Java",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "Java is a general-purpose computer-programming language that is concurrent, class-based, object-oriented, and specifically designed to have as few implementation dependencies as possible.",
+    "image": "java",
     "tags": [
       "java",
       "back-end",
@@ -163,9 +151,8 @@
   {
     "name": "C",
     "stars": 4.5,
-    "description-en": "Saas is the latest evolution of the Cascading Style Sheets language and aims at extending CSS2.1.",
-    "description-fr": "",
-    "image": "saas.png",
+    "description": "C is a general-purpose, imperative computer programming language, supporting structured programming, lexical variable scope and recursion, while a static type system prevents many unintended operations.",
+    "image": "c",
     "tags": [
       "C",
       "back-end",

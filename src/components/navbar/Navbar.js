@@ -1,25 +1,25 @@
 import "./navbar.scss"
 import {useState} from "react";
+import {Link} from "react-router-dom";
+import ContactForm from "../contact/ContactForm";
 
 function Navbar() {
-
-    const [currentSection, setSection] = useState("home");
-
-    const navigate = (section) => {
-
-    };
+    const [isOpen, setIsOpen] = useState(false);
 
     return (
         <div className={"navbar"}>
             <ul className={"nav_list"}>
-                <li className={currentSection === "home" ? "nav_item_active button" : "nav_item button"}
-                    onClick={navigate("home")}>
-                    Home
-                </li>
-                <li className={currentSection === "contact" ? "nav_item_active button" : "nav_item button"}
-                    onClick={navigate("contact")}>
-                    Contact
-                </li>
+                <Link to={"/"}>
+                    <li className={"home nav_item button"}>
+                        Home
+                    </li>
+                </Link>
+                <div>
+                    <li className={"contact nav_item button"} onClick={() => setIsOpen(true)}>
+                        Contact
+                    </li>
+                    {isOpen && <ContactForm setIsOpen={setIsOpen} />}
+                </div>
             </ul>
         </div>
     );

@@ -1,0 +1,14 @@
+@import "src/assets/sass/main";
+
+.footer {
+  @include flex(row, space-between, center);
+  height: 68px;
+  max-width: 95%;
+  margin: 0 auto;
+  padding: 25px;
+  border-radius: 25px;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  @media screen and (max-width: 900px) {
+    height: 40px;
+  }
+}

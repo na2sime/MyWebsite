@@ -1,8 +1,14 @@
 import "./scroll.scss"
 
 function Scroll() {
+    const handleClickScroll = () => {
+        const element = document.getElementById('book');
+        if (element) {
+            element.scrollIntoView({behavior: 'smooth'});
+        }
+    };
     return (
-        <div className="mouse_scroll">
+        <div className="mouse_scroll" onClick={handleClickScroll}>
 
             <div className="mouse">
                 <div className="wheel"></div>
