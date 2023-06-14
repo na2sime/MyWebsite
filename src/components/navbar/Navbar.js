@@ -1,10 +1,17 @@
 import "./navbar.scss"
-import {useState} from "react";
+import {useState, useEffect} from "react";
 import {Link} from "react-router-dom";
 import ContactForm from "../contact/ContactForm";
 
 function Navbar() {
     const [isOpen, setIsOpen] = useState(false);
+
+    useEffect(() => {
+        if(isOpen){
+            document.body.style.overflow = 'hidden';
+            return ()=> document.body.style.overflow = 'unset';
+        }
+    }, [isOpen]);
 
     return (
         <div className={"navbar"}>
