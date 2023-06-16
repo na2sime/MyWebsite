@@ -22,7 +22,7 @@
     "description": "Kasa est un simple projet react de location de logement.",
     "image": "https://user-images.githubusercontent.com/73883090/152124438-51b213d2-6ec7-4c8b-aabb-be4b07cf1ede.PNG",
     "link": "",
-    "github": "",
+    "github": "https://github.com/na2sime/kasa",
     "date": "2019-01-01"
   },
   {
@@ -37,7 +37,7 @@
     "description": "Mon Vieux Grimoire est un site de partage de notation de livre.",
     "image": "https://user.oc-static.com/upload/2022/10/11/16654934257102_DW-P7-Back-end_company-banner.png",
     "link": "",
-    "github": "",
+    "github": "https://github.com/na2sime/MonVieuxGrimoire",
     "date": "2019-01-01"
   }
 ]
