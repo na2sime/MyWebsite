@@ -1,6 +1,6 @@
 @import "src/assets/sass/main.scss";
 
-.skills {
+.studies {
   margin-top: 200px;
   margin-bottom: 80px;
   display: flex;
@@ -19,7 +19,7 @@
     padding: 25px;
   }
 
-  .container {
+  &_container {
     align-self: center;
     display: grid;
     grid-template-columns: repeat(2, 1fr);

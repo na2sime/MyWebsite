@@ -4,6 +4,7 @@ import Book from "../../components/book/Book";
 import Banner from "../../components/banner/Banner";
 import Skills from "../../components/skills/Skills";
 import Footer from "../../components/footer/Footer";
+import Studies from "../../components/studies/Studies";
 
 function Home () {
     return (
@@ -12,6 +13,7 @@ function Home () {
             <Banner/>
             <Book/>
             <Skills/>
+            <Studies/>
             <Footer/>
         </div>
     );

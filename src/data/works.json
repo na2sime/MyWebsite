@@ -7,7 +7,7 @@
       "Redis",
       "Docker"
     ],
-    "description": "Kraken est un programme permetant la gestion d'instance de serveur de jeux a la demande sur différentes machines.",
+    "description": "Kraken is a program allowing to create an infrastructure for fully scalable on-demand game servers. Kraken is still in the test phase, it is currently deployed on 2 large minecraft game server platforms, it currently manages to manage more than 900 instances at a time. This personal project took me around 5 months to complete, now my goal for this one is to integrate cloud platform management (AWS, Scalway..).",
     "image": "https://www.kraken.com/_assets/files/1970-01/kraken-social.jpg",
     "link": "",
     "github": "",
@@ -19,8 +19,8 @@
     "stack": [
       "React"
     ],
-    "description": "Kasa est un simple projet react de location de logement.",
-    "image": "https://user-images.githubusercontent.com/73883090/152124438-51b213d2-6ec7-4c8b-aabb-be4b07cf1ede.PNG",
+    "description": "Kasa is a study project where we had to create a housing rental site from a model. This project allowed me to learn the big basics of react such as props, dynamic components.. This project was carried out in about 3 full days (72h) of work including learning react. The project then allowed me to start personal and professional creations using the react framework.",
+    "image": "https://zupimages.net/up/23/25/6r7v.png",
     "link": "",
     "github": "https://github.com/na2sime/kasa",
     "date": "2019-01-01"
@@ -34,7 +34,7 @@
       "MongoDB",
       "Express"
     ],
-    "description": "Mon Vieux Grimoire est un site de partage de notation de livre.",
+    "description": "\nMonVieuxGrimoire is a study project where we had to create the back-end of a book rating site. This project allowed me to learn the basics of Express and OWASP. This project was carried out in about 5 full days of work including learning Express and different technologies associated with the project. The project then allowed me to start personal and professional creations using the express framework.",
     "image": "https://user.oc-static.com/upload/2022/10/11/16654934257102_DW-P7-Back-end_company-banner.png",
     "link": "",
     "github": "https://github.com/na2sime/MonVieuxGrimoire",
