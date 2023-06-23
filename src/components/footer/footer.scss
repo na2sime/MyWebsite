@@ -11,4 +11,14 @@
   @media screen and (max-width: 900px) {
     height: 40px;
   }
+
+  &_contact {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+
+    &_button {
+      cursor: pointer;
+    }
+  }
 }
