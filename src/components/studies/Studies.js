@@ -1,5 +1,5 @@
 import "./studies.scss"
-import StudiesCard from "../StudiesCard/StudiesCard";
+import StudiesCard from "../studiescard/StudiesCard";
 
 function Studies() {
     return (

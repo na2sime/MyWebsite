@@ -58,7 +58,7 @@
 
 .modal {
   width: 450px;
-  height: 320px;
+  height: 150px;
   background: white;
   color: white;
   z-index: 10;
@@ -67,12 +67,10 @@
 
   @media screen and (max-width: 480px) {
     width: 380px;
-    height: 270px;
   }
 
   @media screen and (max-width: 380px) {
     width: 320px;
-    height: 270px;
   }
 }
 
@@ -87,7 +85,7 @@
 .heading {
   margin: 0;
   padding: 10px;
-  color: #2c3e50;
+  color: blue;
   font-weight: 500;
   font-size: 18px;
   text-align: center;
